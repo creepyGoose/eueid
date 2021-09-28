@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Estou Trabalhando Como Analista Programador Jr. na INBRASP e como Professor na TOTI
 - 🌱 Atualmente Estou aprendendo Ruby
-- 💬 Adoro Python 
+- 💬 Gosto de Python, Ruby e JS
 - 📫 Me contatem por email lucaseid@protonmail.com
 
  
